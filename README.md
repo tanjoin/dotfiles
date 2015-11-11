@@ -37,9 +37,13 @@
 
 - Create Link のインストール
 
-## Slack の設定
-
 ## Github の設定
+
+- Default Shell を Git Bash に変更
+
+### 設定予定
+
+- .bashrc の設定
 
 ## Cymo NEXT の設定
 
