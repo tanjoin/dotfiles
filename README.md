@@ -41,3 +41,6 @@
 
 ## Github の設定
 
+## Cymo NEXT の設定
+
+- Adobe Air のインストール
