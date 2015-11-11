@@ -22,3 +22,22 @@
 - Android Studio
 - TweetDeck
 
+## Google 日本語入力の設定
+
+- 変換を押すと日本語入力
+- 無変換を押すと英数入力
+
+に設定する
+
+## Atom の設定
+
+- Markdown Preview のインストール
+
+## Chrome の設定
+
+- Create Link のインストール
+
+## Slack の設定
+
+## Github の設定
+
