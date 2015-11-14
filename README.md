@@ -24,7 +24,6 @@
 
 ## Google 日本語入力の設定
 
-
 - [一般] - [キー設定] - [キー設定の選択] [keymap.txt](keymap.txt) をインポートする
 - [サジェスト] - [その他の設定] - [サジェストの最大候補数] を `5` に設定する
 - [入力補助] - [句読点変換を有効にする] - すべてチェック - シフトキーでの入力切替をオフ
@@ -35,7 +34,9 @@
 
 ## Chrome の設定
 
-- Create Link のインストール
+### 拡張機能
+
+- [Create Link - Chrome ウェブストア](https://chrome.google.com/webstore/detail/create-link/gcmghdmnkfdbncmnmlkkglmnnhagajbm/related?hl=ja)
 
 ## Github の設定
 
