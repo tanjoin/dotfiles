@@ -10,6 +10,7 @@
 - i-フィルター
 - KKBOX
 - WebStorage
+- ASUS GIFTBOX Desktop
 
 ## インストール
 
