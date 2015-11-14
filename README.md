@@ -9,6 +9,7 @@
 - McAfee
 - i-フィルター
 - KKBOX
+- WebStorage
 
 ## インストール
 
