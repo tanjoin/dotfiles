@@ -37,6 +37,7 @@
 ### 拡張機能
 
 - [Create Link - Chrome ウェブストア](https://chrome.google.com/webstore/detail/create-link/gcmghdmnkfdbncmnmlkkglmnnhagajbm/related?hl=ja)
+- [Google Cast - Chrome ウェブストア](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)
 
 ## Github の設定
 
