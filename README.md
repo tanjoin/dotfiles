@@ -71,6 +71,8 @@ touch .bashrc
 - 自動利食い設定をする
 - チャートの並び順を変更する
 
-## 購入予定
+## Bluetooth マウス
 
-- Bluetooth マウス
+### インストール
+
+- [Microsoft マウス キーボード センター | Microsoft Hardware](http://www.microsoft.com/hardware/ja-jp/downloads/mouse-keyboard-center)
