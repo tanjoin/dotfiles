@@ -75,4 +75,4 @@ touch .bashrc
 
 ### インストール
 
-- [Microsoft マウス キーボード センター | Microsoft Hardware](http://www.microsoft.com/hardware/ja-jp/downloads/mouse-keyboard-center)
+- Arc Touch Bluetooth Mouse Settings (ストアからインストール)
