@@ -75,4 +75,4 @@ touch .bashrc
 
 ### インストール
 
-- Arc Touch Bluetooth Mouse Settings (ストアからインストール)
+- Arc Touch Bluetooth Mouse Settings (ストアからインストール) [*](https://www.microsoft.com/hardware/ja-jp/p/arc-touch-bluetooth-mouse#support)
