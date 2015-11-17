@@ -25,10 +25,13 @@
 
 ハードディスクサイズによるが以下のインストールも考える
 
-- Node.js
 - Ruby
 - Android Studio
 - TweetDeck
+
+## Node.js
+
+[Download | Node.js](https://nodejs.org/en/download/)
 
 ## Google 日本語入力の設定
 
