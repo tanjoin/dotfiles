@@ -20,6 +20,8 @@
 - [Cymo NEXT](http://www.cymo.jp/next/download/index.html)
 - [Github Desktop](https://desktop.github.com/)
 - [Google 日本語入力](https://www.google.co.jp/ime/)
+- [Node.js](https://nodejs.org/en/download/)
+- [Arc Touch Bluetooth Mouse Settings (ストアからインストール)](https://www.microsoft.com/hardware/ja-jp/p/arc-touch-bluetooth-mouse#support)
 
 ## インストール予定
 
@@ -27,11 +29,6 @@
 
 - Ruby
 - Android Studio
-- TweetDeck
-
-## Node.js
-
-[Download | Node.js](https://nodejs.org/en/download/)
 
 ## Google 日本語入力の設定
 
@@ -49,6 +46,12 @@
 
 - [Create Link - Chrome ウェブストア](https://chrome.google.com/webstore/detail/create-link/gcmghdmnkfdbncmnmlkkglmnnhagajbm/related?hl=ja)
 - [Google Cast - Chrome ウェブストア](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)
+- [Pushbullet - Chrome ウェブストア](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?utm_source=chrome-app-launcher-info-dialog)
+- [Chrome リモート デスクトップ - Chrome ウェブストア](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?utm_source=chrome-app-launcher-info-dialog)
+- [Evernote Web Clipper - Chrome ウェブストア](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?utm_source=chrome-app-launcher-info-dialog)
+- [LINE - Chrome ウェブストア](https://chrome.google.com/webstore/detail/line/menkifleemblimdogmoihpfopnplikde?utm_source=chrome-app-launcher-info-dialog)
+- [My Chrome テーマ - Chrome ウェブストア](https://chrome.google.com/webstore/detail/my-chrome-theme/oehpjpccmlcalbenfhnacjeocbjdonic?utm_source=chrome-app-launcher-info-dialog)
+
 
 ## Github の設定
 
@@ -76,6 +79,4 @@ touch .bashrc
 
 ## Bluetooth マウス
 
-### インストール
-
-- Arc Touch Bluetooth Mouse Settings (ストアからインストール) [*](https://www.microsoft.com/hardware/ja-jp/p/arc-touch-bluetooth-mouse#support)
+スクロール音を消す
