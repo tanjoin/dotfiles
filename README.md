@@ -22,6 +22,9 @@
 - [Google 日本語入力](https://www.google.co.jp/ime/)
 - [Node.js](https://nodejs.org/en/download/)
 - [Arc Touch Bluetooth Mouse Settings (ストアからインストール)](https://www.microsoft.com/hardware/ja-jp/p/arc-touch-bluetooth-mouse#support)
+- VLC
+- VideoCacheView
+- ChromeCacheView
 
 ## インストール予定
 
