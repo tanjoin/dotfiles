@@ -55,7 +55,8 @@
 - [Evernote Web Clipper - Chrome ウェブストア](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?utm_source=chrome-app-launcher-info-dialog)
 - [LINE - Chrome ウェブストア](https://chrome.google.com/webstore/detail/line/menkifleemblimdogmoihpfopnplikde?utm_source=chrome-app-launcher-info-dialog)
 - [My Chrome テーマ - Chrome ウェブストア](https://chrome.google.com/webstore/detail/my-chrome-theme/oehpjpccmlcalbenfhnacjeocbjdonic?utm_source=chrome-app-launcher-info-dialog)
-
+- [はてなブックマーク GoogleChrome 拡張 - Chrome ウェブストア](https://chrome.google.com/webstore/detail/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF-googlechrome-%E6%8B%A1%E5%BC%B5/dnlfpnhinnjdgmjfpccajboogcjocdla?hl=ja)
+- [Google ドライブに保存 - Chrome ウェブストア](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?utm_source=chrome-app-launcher-info-dialog)
 
 ## Github の設定
 
