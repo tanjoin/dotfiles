@@ -25,6 +25,7 @@
 - VLC
 - VideoCacheView
 - ChromeCacheView
+- [TouchMousePointer タッチパネルをタッチパッド化](http://www.lovesummertrue.com/touchmousepointer/ja-jp/index.html)
 
 ## インストール予定
 
