@@ -12,8 +12,8 @@ Windows に関しては Bash on Ubuntu on Windows が登場したのでそちら
 ### tanjoin をサブとして利用するために…
 
 ```
-.ssh/tanjoin/id_rsa
-.ssh/tanjoin/id_rsa.pub
+.ssh/github/tanjoin/id_rsa
+.ssh/github/tanjoin/id_rsa.pub
 ```
 
 を作成
@@ -23,12 +23,12 @@ Windows に関しては Bash on Ubuntu on Windows が登場したのでそちら
 
 ```
 Host tanjoin
-User git
-Port 22
-HostName     github.com
-IdentityFile ~/.ssh/tanjoin/id_rsa
-TCPKeepAlive yes
-IdentitiesOnly yes
+ HostName     github.com
+ AddKeysToAgent yes
+ UseKeychain yes
+ IdentityFile ~/.ssh/github/tanjoin/id_rsa
+ TCPKeepAlive yes
+ IdentitiesOnly yes
 ```
 
 これで `git clone git@tanjoin:tanjoin/dotfiles.git` で tanjoin アカウントで利用できるようになる
