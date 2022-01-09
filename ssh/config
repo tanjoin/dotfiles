@@ -1,0 +1,15 @@
+Host tanjoin
+  HostName github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/github/tanjoin/id_rsa
+  TCPKeepAlive yes
+  IdentitiesOnly yes
+
+Host tanjo
+  HostName github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/github/tanjo/id_rsa
+  TCPKeepAlive yes
+  IdentitiesOnly yes
