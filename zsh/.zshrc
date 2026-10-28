@@ -120,7 +120,14 @@ zstyle ':vcs_info:*' actionformats '(%s)-[%b|%a]'
 zstyle ':vcs_info:(svn|bzr):*' branchformat '%b:r%r'
 zstyle ':vcs_info:bzr:*' use-simple true
 
-#
+# プロンプト設定
+# カレントディレクトリ表示（黄色、太字）
+local prompt_current_dir="%B%F{yellow}[%~]%f%b"
+
+# コマンド入力マーク（成功時は緑、失敗時は赤）
+local prompt_mark=$'\n'"%B%(?, %F{green}, %F{red})>%f%b "
+
+# vcs_info の情報を更新する関数
 function _update_vcs_info_msg() {
 	psvar=()
 	LANG=en_US.UTF-8 vcs_info
