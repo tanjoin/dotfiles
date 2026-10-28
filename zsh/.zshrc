@@ -133,7 +133,12 @@ function _update_vcs_info_msg() {
 	fi
 }
 add-zsh-hook precmd _update_vcs_info_msg
-RPROMPT="%1(v|%F{green}%1v%f%F{yellow}%2v%f|)"
+
+# プロンプトを設定
+PROMPT="$prompt_current_dir %1(v|%F{green}%1v%f%F{yellow}%2v%f|)$prompt_mark"
+PROMPT2="%{${fg[blue]}%}%_> %{${reset_color}%}"
+SPROMPT="%{${fg[red]}%}correct: %R -> %r [nyae]? %{${reset_color}%}"
+RPROMPT=""
 
 ## Enter押したらlsとgit statusを表示する
 ## Mavericks だと動作が超遅いのでコメントアウト（2014/06/17）
@@ -157,10 +162,3 @@ function do_enter() {
 }
 zle -N do_enter
 bindkey '^m' do_enter
-
-# http://www.slideshare.net/tetutaro/zsh-20923001
-local p_cdir="%B%F{yellow}[%~]%f%b"$'\n'
-local p_mark="%B%(?, %F{green}, %F{red})>%f%b"
-PROMPT="$p_cdir$p_mark "
-
-source <(npm completion) 
